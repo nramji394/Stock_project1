@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    
+    <!-- Left Candlestick (Bearish Red Retracement) -->
+    <!-- Wick -->
+    <path
+        android:fillColor="#FF3965"
+        android:pathData="M35,46h2v30h-2z" />
+    <!-- Body -->
+    <path
+        android:fillColor="#FF2E5F"
+        android:pathData="M31,52h10v18h-10z" />
+
+    <!-- Middle Candlestick (Bullish Green Accumulation) -->
+    <!-- Wick -->
+    <path
+        android:fillColor="#00E676"
+        android:pathData="M54,34h2v36h-2z" />
+    <!-- Body -->
+    <path
+        android:fillColor="#00C853"
+        android:pathData="M50,40h10v22h-10z" />
+
+    <!-- Right Candlestick (Bullish Green Swing Breakout) -->
+    <!-- Wick -->
+    <path
+        android:fillColor="#00E676"
+        android:pathData="M73,20h2v35h-2z" />
+    <!-- Body -->
+    <path
+        android:fillColor="#00C853"
+        android:pathData="M69,24h10v20h-10z" />
+
+    <!-- Rising Gold Swing Trend Arrow -->
+    <path
+        android:fillColor="#00000000"
+        android:pathData="M24,78 C36,78 44,52 70,30"
+        android:strokeWidth="3.5"
+        android:strokeColor="#FFD600"
+        android:strokeLineCap="round" />
+    
+    <path
+        android:fillColor="#FFD600"
+        android:pathData="M72,25L60,31L68,36z" />
+        
+</vector>

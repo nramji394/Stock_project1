@@ -1,0 +1,6 @@
+{
+  "name": "SwingScope",
+  "description": "Stock analysis and journal specialized for Swing Trading setups with multi-timeframe custom chart visualizer, screening cards, earnings catalyst tracker, risk calculator, and an integrated Gemini AI Trade Copilot.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
